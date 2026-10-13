@@ -1,0 +1,58 @@
+[
+  {
+    "orderId": "INV-5331",
+    "trackingNumber": "TRK-SONIC-143723",
+    "date": "2026-10-13T17:38:24.012Z",
+    "status": "Confirmed & Prepared for Supersonic Transit",
+    "currentLocation": "Cupertino Precision Engineering Hub",
+    "estimatedDelivery": "Within 24-48 Hours",
+    "customer": {
+      "name": "Julian Thorne",
+      "email": "julian@innovate.premium",
+      "address": "742 Cyber Plaza, Suite 80",
+      "city": "New York",
+      "zip": "10001",
+      "country": "United States"
+    },
+    "items": [
+      {
+        "id": "prod-1",
+        "name": "QUANTUM SLIMBOOK",
+        "price": 1299,
+        "image": "/assets/prod_slimbook_item.png",
+        "qty": 1
+      }
+    ],
+    "paymentMethod": "PayPal",
+    "subtotal": 1299,
+    "discountAmount": 259.8,
+    "total": 1039.2,
+    "transactionHash": "0x580d6c08acd78ef63bdac17eca41302be112d81d"
+  },
+  {
+    "orderId": "INV-8924",
+    "trackingNumber": "TRK-FEDEX-884920",
+    "date": "2026-10-11T17:23:24.051Z",
+    "status": "Sonic Transit",
+    "currentLocation": "Geneva Aviation Logistics Hub",
+    "estimatedDelivery": "Tomorrow, by 10:30 AM",
+    "customer": {
+      "name": "Marcus Vance",
+      "email": "marcus@futurist.io",
+      "address": "888 Silicon Boulevard, Suite 400",
+      "city": "San Francisco",
+      "country": "United States"
+    },
+    "items": [
+      {
+        "id": "prod-1",
+        "name": "QUANTUM SLIMBOOK",
+        "price": 1299,
+        "qty": 1,
+        "color": "Obsidian Cyber"
+      }
+    ],
+    "total": 1299,
+    "paymentMethod": "Apple Pay"
+  }
+]
